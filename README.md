@@ -17,3 +17,11 @@
 - [x] Mux8Way16
 - [x] DMux4Way
 - [x] DMux8Way
+
+## Project 2: Boolean Arithmetic
+
+- [x] HalfAdder
+- [x] FullAdder
+- [x] Inc16
+- [x] Add16
+- [x] ALU
